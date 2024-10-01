@@ -6,9 +6,9 @@ For more in depth information about SenseCrypt, you checkout our [Website](https
 
 ### Quick Start
 
-The notebooks can all be hosted on Google Colab. If you want to run the notebooks in the local environments, you can set up the environment as shown below in the command line:
+The notebooks can all be hosted on Google Colab. If you want to run the notebooks in the local environment, you can set up the environment as shown below in the command line:
 
-Set up a virtual environment (Recommended, below shows an example to set up virtual environment using [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/))
+To set up a virtual environment (Recommended, below shows an example to set up virtual environment using [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)):
 
 ```
 pip install virtualenvwrapper
@@ -31,7 +31,6 @@ To remove the virtual environment (If you no longer need it):
 ``` 
 rmvirtualenv sensecrypt-walkthrough
 ```
-
 
 ### 1.1 Overview
 

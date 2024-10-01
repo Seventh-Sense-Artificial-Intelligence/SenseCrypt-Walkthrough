@@ -4,6 +4,33 @@ This walkthrough gives you hand on expierence on using SenseCrypt eID and SenseC
 For more in depth information about SenseCrypt, you checkout our [Website](https://seventhsense.ai) or the [SenseCrypt Documentation](https://docs.sensecrypt.com/sensecrypt-v3.1.1).
 
 
+### Quick Start
+
+The notebooks can all be hosted on Google Colab. If you want to run the notebooks in the local environment, you can set up the environment as shown below in the command line:
+
+To set up a virtual environment (Recommended, below shows an example to set up virtual environment using [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)):
+
+```
+pip install virtualenvwrapper
+mkvirtualenv sensecrypt-walkthrough # Create a new virtual environment called sensecrypt-walkthrough 
+workon sensecrypt-walkthrough # Activate the created virtual environment
+```
+
+To install the dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+To deactivate the virtual environment:
+```
+deactivate 
+```
+
+To remove the virtual environment (If you no longer need it):
+``` 
+rmvirtualenv sensecrypt-walkthrough
+```
 
 ### 1.1 Overview
 

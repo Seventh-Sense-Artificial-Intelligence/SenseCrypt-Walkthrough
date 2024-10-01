@@ -1,9 +1,11 @@
 asttokens
 backcall
 certifi
+cffi
 charset-normalizer
 comm
 contourpy
+cryptography
 cycler
 debugpy
 decorator
@@ -33,6 +35,7 @@ prompt_toolkit
 psutil
 ptyprocess
 pure_eval
+pycparser
 Pygments
 pyparsing
 python-dateutil
